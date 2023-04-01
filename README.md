@@ -7,6 +7,7 @@ I'm a developer with several _years_ of experience in **Markdown**.
 Here are some writings from [my blog](https://zwyx.dev) that you might find interesting:
 
 <!--START_SECTION:feed-->
+* [Consolidate your contribution graph](https://zwyx.dev/blog/own-contribution-graph)
 * [Indentation for accessibility](https://zwyx.dev/blog/indentation-for-accessibility)
 * [Hello Docusaurus!](https://zwyx.dev/blog/hello-docusaurus)
 * [Bye Medium](https://zwyx.dev/blog/bye-medium)
