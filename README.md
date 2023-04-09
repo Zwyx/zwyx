@@ -2,6 +2,8 @@
 
 I'm a developer with several _years_ of experience in **Markdown**.
 
+Reach me at hi@zwyx.dev.
+
 ---
 
 Here are some writings from [my blog](https://zwyx.dev) that you might find interesting:
