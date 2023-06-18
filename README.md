@@ -2,7 +2,7 @@
 
 I'm a developer with several _years_ of experience in **Markdown**.
 
-Reach me at hi@zwyx.dev.
+Reach me at `alex` `<at>` `zwyx.dev`.
 
 ---
 
