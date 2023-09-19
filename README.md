@@ -10,7 +10,8 @@ Here are some writings from [my blog](https://zwyx.dev) that you might find inte
 
 <!--START_SECTION:feed-->
 
-- [All you need for a proper dark theme](https://zwyx.dev/blog/proper-dark-theme) – with [demo](https://zwyx.github.io/proper-dark-theme/)
+- [Typesafe translations with TypeScript and i18next](https://zwyx.dev/blog/typesafe-translations) – with [demo](https://github.com/zwyx/typesafe-translations)
+- [All you need for a proper dark theme](https://zwyx.dev/blog/proper-dark-theme) – with [demo](https://zwyx.github.io/proper-dark-theme)
 - [Your dotfiles in a Git repo](https://zwyx.dev/blog/your-dotfiles-in-a-git-repo)
 - [Consolidate your contribution graph](https://zwyx.dev/blog/own-contribution-graph)
 - [Indentation for accessibility](https://zwyx.dev/blog/indentation-for-accessibility)
