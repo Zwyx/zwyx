@@ -6,7 +6,14 @@ Reach me at `alex` `<at>` `zwyx.dev`.
 
 ---
 
-Here are some writings from [my blog](https://zwyx.dev) that you might find interesting:
+Here are the projects I'm working on:
+
+- [Detrak](https://detrak.net), an easy to learn dice game!
+- [Auto Close Tab](https://marketplace.visualstudio.com/items?itemName=Zwyx.autoclosetabs), a VS Code extension which automatically closes your unused tabs
+
+---
+
+And here are some writings from [my blog](https://zwyx.dev) that you might find interesting:
 
 <!--START_SECTION:feed-->
 
