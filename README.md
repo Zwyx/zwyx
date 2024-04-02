@@ -8,8 +8,9 @@ Reach me at `alex` `<at>` `zwyx.dev`
 
 Here are the projects I'm working on:
 
+- [The Library of Babel](https://babel.zwyx.dev), a digital recreation of Jorge Luis Borges's concept in the short story of the same name.
 - [Detrak](https://detrak.net), an easy to learn dice game!
-- [Auto Close Tab](https://marketplace.visualstudio.com/items?itemName=Zwyx.autoclosetabs), a VS Code extension which automatically closes your unused tabs
+- [Auto Close Tab](https://marketplace.visualstudio.com/items?itemName=Zwyx.autoclosetabs), a VS Code extension which automatically closes your unused tabs.
 
 ---
 
