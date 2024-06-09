@@ -4,17 +4,22 @@ I'm a developer with several _years_ of experience in **Markdown**.
 
 Reach me at `alex` `<at>` `zwyx.dev`
 
----
+### Projects
 
-Here are the projects I'm working on:
+<div align="center">
+
+**I do these things not because they are easy,**<br />but because I thought they would be easy.
+
+</div>
 
 - [The Library of Babel](https://babel.zwyx.dev), a digital recreation of Jorge Luis Borges's concept in the short story of the same name.
-- [Detrak](https://detrak.net), an easy to learn dice game!
+- [Detrak](https://detrak.net), a dice game.
 - [Auto Close Tab](https://marketplace.visualstudio.com/items?itemName=Zwyx.autoclosetabs), a VS Code extension which automatically closes your unused tabs.
+- Codewars kata:
+  - [Hide a message in a deck of playing cards](https://www.codewars.com/kata/59b9a92a6236547247000110)
+  - [Card-Chameleon, a Cipher with Playing Cards](https://www.codewars.com/kata/59c2ff946bddd2a2fd00009e)
 
----
-
-And here are some writings from [my blog](https://zwyx.dev) that you might find interesting:
+### Writings
 
 <!--START_SECTION:feed-->
 - [Base conversions with big numbers in JavaScript](https://zwyx.dev/blog/base-conversions-with-big-numbers-in-javascript)
