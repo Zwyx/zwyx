@@ -1,29 +1,32 @@
 ### Hi 👋
 
-I'm a developer with several _years_ of experience in **Markdown**.
+I'm a developer with several _years_ of experience in **Markdown** 😎
 
 Reach me at `alex` `<at>` `zwyx.dev`
 
 ---
 
-Here are the projects I'm working on:
+Here are some things I've made:
 
 - [The Library of Babel](https://babel.zwyx.dev), a digital recreation of Jorge Luis Borges's concept in the short story of the same name.
 - [Detrak](https://detrak.net), an easy to learn dice game!
 - [Auto Close Tab](https://marketplace.visualstudio.com/items?itemName=Zwyx.autoclosetabs), a VS Code extension which automatically closes your unused tabs.
+- A few katas on Codewars, including:
+  - [Hide a message in a deck of playing cards](https://www.codewars.com/kata/59b9a92a6236547247000110) (4 kyu)
+  - [Card-Chameleon, a Cipher with Playing Cards](https://www.codewars.com/kata/59c2ff946bddd2a2fd00009e) (5 kyu)
 
 ---
 
 And here are some writings from [my blog](https://zwyx.dev) that you might find interesting:
 
 <!--START_SECTION:feed-->
-- [Base conversions with big numbers in JavaScript](https://zwyx.dev/blog/base-conversions-with-big-numbers-in-javascript)
 - [Typesafe translations with TypeScript and i18next](https://zwyx.dev/blog/typesafe-translations)
 - [All you need for a proper dark theme](https://zwyx.dev/blog/proper-dark-theme)
+- [Git Hash Miner: mine your commit hashes!](https://zwyx.dev/blog/git-hash-miner)
 - [Your dotfiles in a Git repo](https://zwyx.dev/blog/your-dotfiles-in-a-git-repo)
 - [Consolidate your contribution graph](https://zwyx.dev/blog/own-contribution-graph)
 - [Indentation for accessibility](https://zwyx.dev/blog/indentation-for-accessibility)
-- [Git Hash Miner: mine your commit hashes!](https://zwyx.dev/blog/git-hash-miner)
 - [Tidy up a Git repo by archiving branches](https://zwyx.dev/blog/archiving-git-branches)
 - [Multiple shared password stores with Git and pass](https://zwyx.dev/blog/shared-password-stores)
+- [Base conversions with big numbers in JavaScript](https://zwyx.dev/blog/base-conversions-with-big-numbers-in-javascript)
 <!--END_SECTION:feed-->
