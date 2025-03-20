@@ -14,15 +14,16 @@ Reach me at `alex` `<at>` `zwyx.dev`
 
 - [The Library of Babel](https://babel.zwyx.dev), a digital recreation of Jorge Luis Borges's concept in the short story of the same name.
 - [Detrak](https://detrak.net), a dice game.
-- [Auto Close Tab](https://marketplace.visualstudio.com/items?itemName=Zwyx.autoclosetabs), a VS Code extension which automatically closes your unused tabs.
 - Codewars kata:
   - [Hide a message in a deck of playing cards](https://www.codewars.com/kata/59b9a92a6236547247000110)
   - [Card-Chameleon, a Cipher with Playing Cards](https://www.codewars.com/kata/59c2ff946bddd2a2fd00009e)
+- The VS Code extension [Auto Close Tab](https://marketplace.visualstudio.com/items?itemName=Zwyx.autoclosetabs), which automatically closes your unused tabs.
+- The ESLint plugin [react-ref](https://github.com/Zwyx/eslint-plugin-react-ref), which warns when variables created with React's `useRef` are used incorrectly.
 
-### Writings
+### Posts
 
 <!--START_SECTION:feed-->
-- [Base conversions with big numbers in JavaScript](https://zwyx.dev/blog/base-conversions-with-big-numbers-in-javascript)
+- [Base conversions with BIG numbers in JavaScript](https://zwyx.dev/blog/base-conversions-with-big-numbers-in-javascript)
 - [Typesafe translations with TypeScript and i18next](https://zwyx.dev/blog/typesafe-translations)
 - [All you need for a proper dark theme](https://zwyx.dev/blog/proper-dark-theme)
 - [Your dotfiles in a Git repo](https://zwyx.dev/blog/your-dotfiles-in-a-git-repo)
