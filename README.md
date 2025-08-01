@@ -16,7 +16,7 @@ Reach me at `alex` `<at>` `zwyx.dev`
 - [Detrak](https://detrak.net), a single or multiple players dice game.
 - Codewars katas:
   - [Win at Skyjo](https://www.codewars.com/kata/688b957a12698cb53d5959fe) – Good luck with this one...
-  - [Hide a message in a deck of playing cards](https://www.codewars.com/kata/59b9a92a6236547247000110) – of which another Codewars [user](https://github.com/hamboomger) made a [beautiful app](https://pokerface.denis.earth)!
+  - [Hide a message in a deck of playing cards](https://www.codewars.com/kata/59b9a92a6236547247000110),
   - [Card-Chameleon, a Cipher with Playing Cards](https://www.codewars.com/kata/59c2ff946bddd2a2fd00009e).
 - The VS Code extension [Auto Close Tab](https://marketplace.visualstudio.com/items?itemName=Zwyx.autoclosetabs), which automatically closes your unused tabs.
 - A [Chrome extension](https://github.com/Zwyx/chrome-slack-sections-cleaner) to automatically remove old conversations from Slack sections.
