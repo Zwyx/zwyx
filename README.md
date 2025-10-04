@@ -8,7 +8,7 @@ Reach me at `alex` `<at>` `zwyx.dev`
 
 <div align="center">
 
-**I do these things not because they are easy,**<br />but because I thought they would be easy.
+**_We do these things not because they are easy,_**<br />_but because we thought they would be easy._
 
 </div>
 
